@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetch-and-show-users/static/css/main.fcff7b51.css",
+    "main.js": "/fetch-and-show-users/static/js/main.b6255119.js",
+    "index.html": "/fetch-and-show-users/index.html",
+    "main.fcff7b51.css.map": "/fetch-and-show-users/static/css/main.fcff7b51.css.map",
+    "main.b6255119.js.map": "/fetch-and-show-users/static/js/main.b6255119.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcff7b51.css",
+    "static/js/main.b6255119.js"
+  ]
+}
